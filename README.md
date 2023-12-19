@@ -1,4 +1,5 @@
 <h3>🛠️ MY TECH 🛠️</h3>
+
 ### My Interest 🤓
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -22,6 +23,8 @@
 <br>
 <h3>📝 MY BLOG 📝</h3>
 <a href="https://c-java-py-jieunletsgo.tistory.com/">https://c-java-py-jieunletsgo.tistory.com/</a>
+<br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahkjeflhkeuvha&layout=compact%&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
