@@ -1,8 +1,10 @@
-<div align="center">
-  
-  ### Hi there 👋
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahkjeflhkeuvha&layout=compact%&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+## My Interest 
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahkjeflhkeuvha&layout=compact%&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **ahkjeflhkeuvha/ahkjeflhkeuvha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
