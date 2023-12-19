@@ -1,4 +1,4 @@
-<h3>🛠️ MY TECH 🛠️</h3>
+<h2>🛠️ MY TECH 🛠️</h2>
 
 ### My Interest 🤓
 <div>
@@ -19,13 +19,10 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 </div>
-<br>
-<br>
-<h3>📝 MY BLOG 📝</h3>
+<div></div><div></div>
+<h2>📝 MY BLOG 📝</h2>
 <a href="https://c-java-py-jieunletsgo.tistory.com/">https://c-java-py-jieunletsgo.tistory.com/</a>
-<br>
-<br>
-
+<div></div><div></div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahkjeflhkeuvha&layout=compact%&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
