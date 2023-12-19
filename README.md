@@ -1,4 +1,5 @@
-### My Interest 🤓 #
+<h3>🛠️ MY TECH 🛠️</h3>
+### My Interest 🤓
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -9,7 +10,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-### I want to study ✏️ #
+### I want to study 👩🏻‍💻
 <div>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -19,6 +20,8 @@
 </div>
 <br>
 <br>
+<h3>📝 MY BLOG 📝</h3>
+<a href="https://c-java-py-jieunletsgo.tistory.com/">https://c-java-py-jieunletsgo.tistory.com/</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahkjeflhkeuvha&layout=compact%&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
