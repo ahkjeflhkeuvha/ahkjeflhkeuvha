@@ -27,8 +27,8 @@
 <div></div><div></div>
 <br>
 
-[![Github](https://www.codenary.co.kr/widget/github/api?username=ahkjeflhkeuvha)](https://www.codenary.co.kr/user-profile/detail/ahkjeflhkeuvha?github_ride=true&utm_source=github)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahkjeflhkeuvha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ahkjeflhkeuvha/ahkjeflhkeuvha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahkjeflhkeuvha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
