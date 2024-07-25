@@ -1,4 +1,4 @@
-<h2>🛠️ SKILL 🛠️</h2>
+<!-- <h2>🛠️ SKILL 🛠️</h2>
 <div></div>
 
 ### Language
@@ -38,4 +38,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
