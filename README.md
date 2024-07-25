@@ -33,8 +33,8 @@
   </summary>
   <br>
     <ul>
-      <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> BLOG | <a href="https://c-java-py-jieunletsgo.tistory.com/">렛추고</a></li>
-      <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="25" height="25" /> EMAIL | w2317@gmail.com</li>
+      <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> BLOG <a href="https://c-java-py-jieunletsgo.tistory.com/">렛추고</a></li>
+      <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="25" height="25" /> EMAIL w2317@gmail.com</li>
     </ul>
   </details>
 
